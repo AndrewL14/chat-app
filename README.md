@@ -14,3 +14,13 @@ which should start the backend node server on `http://localhost:3001/` . After c
 for more information on ChatEngine visit: [ChatEngine.io](https://chatengine.io/)
 
 
+### `login`
+
+3 pre-created users have already been added.
+
+Usernames:
+```
+zack
+drew
+dave
+```
